@@ -45,6 +45,9 @@ Procedure:
 
 # OUTPUT: 
 
+[monishwar_exp3.docx](https://github.com/user-attachments/files/24348031/monishwar_exp3.docx)
+
+
 
 # RESULT: The various types of Prompts are executed successfully with generated the report.
 
